@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("starting-monkey-to-human-path")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e078b46ad6dd4c566855b8db16d1afba2fe408f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f395a2834c123b4c8ee104a34e614f85a932a078")]
 [assembly: System.Reflection.AssemblyProductAttribute("starting-monkey-to-human-path")]
 [assembly: System.Reflection.AssemblyTitleAttribute("starting-monkey-to-human-path")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
