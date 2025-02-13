@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="202.Mamaev.wdad\services\" />
+    <Folder Include="202.Mamaev.wdad\utils\" />
+  </ItemGroup>
+
 </Project>
